@@ -28,7 +28,7 @@ U8g2_for_Adafruit_GFX.h
 
 ### 注意
 
-需选择
+需进行如下配置
 
 **工具——Rartition Scheme——No OTA (2MB APP/2MB SPIFFS)**
 
