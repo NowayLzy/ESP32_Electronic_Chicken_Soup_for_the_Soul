@@ -30,6 +30,8 @@ U8g2_for_Adafruit_GFX.h
 
 需选择
 
-**工具-Rartition Scheme-No OTA (2MB APP/2MB SPIFFS)**
+**工具——Rartition Scheme——No OTA (2MB APP/2MB SPIFFS)**
 
 否则编译时会报**内存不足**
+
+~~喜欢就给个星吧~~
